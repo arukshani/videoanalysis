@@ -513,10 +513,22 @@ class NetflixSession:
     :return: nothing
     """
     try:
-      res = entry["Res"]
-      res = res.strip()
-      res = res.split("/")
-      self.resolution.append([res[0],res[1]])
+      if "Res" in entry.keys():
+        res = entry["Res"]
+        res = res.strip()
+        res = res.split("/")
+        self.resolution.append([res[0],res[1]])
+      elif "PBR" in entry.keys() and "?" not in entry["PBR"]:
+        s = entry["PBR"]
+        print s
+        res = s[s.find("(")+1:s.find(")")].split("x")
+        print res
+        self.resolution.append([res[0], res[1]])
+      else:
+        if len(self.resolution) > 0:
+          self.resolution.append(self.resolution[len(self.resolution) - 1])
+        else:
+          self.resolution.append([0, 0])
     except KeyError:
       if len(self.resolution) > 0:
         self.resolution.append(self.resolution[len(self.resolution) - 1])
