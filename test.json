@@ -1,0 +1,3618 @@
+{
+    "duration": 0,
+    "startTs": 1516981504332.0,
+    "vals": {
+        "216": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        160.159
+                    ]
+                ],
+                "pos": 82.223774,
+                "closest": 81871.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=2944018-3603861&rn=29&rbuf=88110",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        160.159
+                    ]
+                ],
+                "pos": 82.223774,
+                "closest": 81871.0
+            },
+            "end_ts": 1516981586154,
+            "start_ts": 1516981586058,
+            "resolution": 0,
+            "range": "2944018-3603861",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "214": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        160.159
+                    ]
+                ],
+                "pos": 82.223774,
+                "closest": 81871.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=30495347-32543857&rn=28&rbuf=83793",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        160.159
+                    ]
+                ],
+                "pos": 82.223774,
+                "closest": 81871.0
+            },
+            "end_ts": 1516981586052,
+            "start_ts": 1516981585842,
+            "resolution": 720,
+            "range": "30495347-32543857",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "211": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        149.482
+                    ]
+                ],
+                "pos": 71.661512,
+                "closest": 71309.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=28398195-30495346&rn=27&rbuf=83211",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        149.482
+                    ]
+                ],
+                "pos": 71.661512,
+                "closest": 71309.0
+            },
+            "end_ts": 1516981575830,
+            "start_ts": 1516981575599,
+            "resolution": 720,
+            "range": "28398195-30495346",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "218": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        170.836
+                    ]
+                ],
+                "pos": 92.785694,
+                "closest": 92433.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=32543858-34548318&rn=30&rbuf=84072",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        170.836
+                    ]
+                ],
+                "pos": 92.785694,
+                "closest": 92433.0
+            },
+            "end_ts": 1516981596574,
+            "start_ts": 1516981596341,
+            "resolution": 720,
+            "range": "32543858-34548318",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "226": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        195.495
+                    ]
+                ],
+                "pos": 119.936332,
+                "closest": 119583.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=37961821-39488439&rn=33&rbuf=83514",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        195.495
+                    ]
+                ],
+                "pos": 119.936332,
+                "closest": 119583.0
+            },
+            "end_ts": 1516981623499,
+            "start_ts": 1516981623341,
+            "resolution": 720,
+            "range": "37961821-39488439",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "139": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        5.338
+                    ]
+                ],
+                "pos": 1.646533,
+                "closest": 1295.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=295516-551093&rn=9&rbuf=15579",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        10.676
+                    ]
+                ],
+                "pos": 2.179127,
+                "closest": 1828.0
+            },
+            "end_ts": 1516981506373,
+            "start_ts": 1516981506316,
+            "resolution": 0,
+            "range": "295516-551093",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "407": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        7.641,
+                        761.493
+                    ]
+                ],
+                "pos": 689.141723,
+                "closest": 688778.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=145765213-147635696&rn=105&rbuf=83412",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        7.641,
+                        761.493
+                    ]
+                ],
+                "pos": 689.141723,
+                "closest": 688778.0
+            },
+            "end_ts": 1516982189762,
+            "start_ts": 1516982189578,
+            "resolution": 720,
+            "range": "145765213-147635696",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "346": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        560.559
+                    ]
+                ],
+                "pos": 484.027755,
+                "closest": 483667.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=106709184-108806335&rn=80&rbuf=83907",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        560.559
+                    ]
+                ],
+                "pos": 484.531009,
+                "closest": 484171.0
+            },
+            "end_ts": 1516981986048,
+            "start_ts": 1516981985587,
+            "resolution": 720,
+            "range": "106709184-108806335",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "404": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        758.09
+                    ]
+                ],
+                "pos": 681.617411,
+                "closest": 681254.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=144490456-145765212&rn=104&rbuf=84372",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        758.09
+                    ]
+                ],
+                "pos": 681.617411,
+                "closest": 681254.0
+            },
+            "end_ts": 1516982182262,
+            "start_ts": 1516982182083,
+            "resolution": 720,
+            "range": "144490456-145765212",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "340": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        539.204
+                    ]
+                ],
+                "pos": 462.408158,
+                "closest": 462048.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=102603924-104612031&rn=77&rbuf=84438",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        539.204
+                    ]
+                ],
+                "pos": 462.915566,
+                "closest": 462556.0
+            },
+            "end_ts": 1516981964508,
+            "start_ts": 1516981964251,
+            "resolution": 720,
+            "range": "102603924-104612031",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "402": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        747.412
+                    ]
+                ],
+                "pos": 673.074057,
+                "closest": 672710.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=142393304-144490455&rn=103&rbuf=83397",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        747.412
+                    ]
+                ],
+                "pos": 673.074057,
+                "closest": 672710.0
+            },
+            "end_ts": 1516982173565,
+            "start_ts": 1516982173336,
+            "resolution": 720,
+            "range": "142393304-144490455",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "342": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        549.882
+                    ]
+                ],
+                "pos": 473.974359,
+                "closest": 473614.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=104612032-106709183&rn=78&rbuf=83615",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        549.882
+                    ]
+                ],
+                "pos": 473.974359,
+                "closest": 473614.0
+            },
+            "end_ts": 1516981975813,
+            "start_ts": 1516981975589,
+            "resolution": 720,
+            "range": "104612032-106709183",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "400": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        736.735
+                    ]
+                ],
+                "pos": 662.01743,
+                "closest": 661654.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=140376986-142393303&rn=102&rbuf=83717",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        736.735
+                    ]
+                ],
+                "pos": 662.01743,
+                "closest": 661654.0
+            },
+            "end_ts": 1516982162564,
+            "start_ts": 1516982162336,
+            "resolution": 720,
+            "range": "140376986-142393303",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "281": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        363.028
+                    ]
+                ],
+                "pos": 285.932791,
+                "closest": 285576.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=6275040-6864680&rn=54&rbuf=85647",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        363.028
+                    ]
+                ],
+                "pos": 285.932791,
+                "closest": 285576.0
+            },
+            "end_ts": 1516981788463,
+            "start_ts": 1516981788340,
+            "resolution": 0,
+            "range": "6275040-6864680",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "283": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        368.367
+                    ]
+                ],
+                "pos": 291.465862,
+                "closest": 291109.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=68039519-70136670&rn=55&rbuf=83601",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        368.367
+                    ]
+                ],
+                "pos": 291.967678,
+                "closest": 291611.0
+            },
+            "end_ts": 1516981794427,
+            "start_ts": 1516981794199,
+            "resolution": 720,
+            "range": "68039519-70136670",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "349": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        571.236
+                    ]
+                ],
+                "pos": 494.607797,
+                "closest": 494247.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=108806336-110833244&rn=81&rbuf=84293",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        571.236
+                    ]
+                ],
+                "pos": 494.607797,
+                "closest": 494247.0
+            },
+            "end_ts": 1516981996265,
+            "start_ts": 1516981995839,
+            "resolution": 720,
+            "range": "108806336-110833244",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "286": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        379.044
+                    ]
+                ],
+                "pos": 301.523741,
+                "closest": 301167.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=70136671-72228596&rn=56&rbuf=84225",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        379.044
+                    ]
+                ],
+                "pos": 301.523741,
+                "closest": 301167.0
+            },
+            "end_ts": 1516981804116,
+            "start_ts": 1516981803836,
+            "resolution": 720,
+            "range": "70136671-72228596",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "120": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        5.338
+                    ]
+                ],
+                "pos": 1.118918,
+                "closest": 696.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=133149-295515&rn=7&rbuf=7550",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        5.338
+                    ]
+                ],
+                "pos": 1.118918,
+                "closest": 696.0
+            },
+            "end_ts": 1516981505475,
+            "start_ts": 1516981505439,
+            "resolution": 0,
+            "range": "133149-295515",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "260": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        304.303
+                    ]
+                ],
+                "pos": 227.580919,
+                "closest": 227225.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=57201871-59299022&rn=47&rbuf=83786",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        304.303
+                    ]
+                ],
+                "pos": 227.580919,
+                "closest": 227225.0
+            },
+            "end_ts": 1516981730577,
+            "start_ts": 1516981730340,
+            "resolution": 720,
+            "range": "57201871-59299022",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "124": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        5.338
+                    ]
+                ],
+                "pos": 1.118918,
+                "closest": 696.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=1757400-3443962&rn=8&rbuf=9046",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        5.338
+                    ]
+                ],
+                "pos": 1.646533,
+                "closest": 1295.0
+            },
+            "end_ts": 1516981506271,
+            "start_ts": 1516981505639,
+            "resolution": 720,
+            "range": "1757400-3443962",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "268": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        319.285
+                    ]
+                ],
+                "pos": 243.170693,
+                "closest": 242815.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=5622907-6275039&rn=49&rbuf=88144",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        319.285
+                    ]
+                ],
+                "pos": 243.170693,
+                "closest": 242815.0
+            },
+            "end_ts": 1516981746177,
+            "start_ts": 1516981746097,
+            "resolution": 0,
+            "range": "5622907-6275039",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "414": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        25.241,
+                        784.783
+                    ]
+                ],
+                "pos": 710.266399,
+                "closest": 709902.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=149340339-151295865&rn=108&rbuf=83765",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        25.241,
+                        784.783
+                    ]
+                ],
+                "pos": 710.266399,
+                "closest": 709902.0
+            },
+            "end_ts": 1516982210787,
+            "start_ts": 1516982210583,
+            "resolution": 720,
+            "range": "149340339-151295865",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "378": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        661.994
+                    ]
+                ],
+                "pos": 586.634563,
+                "closest": 586273.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=126271830-128298182&rn=93&rbuf=83510",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        661.994
+                    ]
+                ],
+                "pos": 586.634563,
+                "closest": 586273.0
+            },
+            "end_ts": 1516982087549,
+            "start_ts": 1516982087335,
+            "resolution": 720,
+            "range": "126271830-128298182",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "417": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        33.221,
+                        795.46
+                    ]
+                ],
+                "pos": 720.334909,
+                "closest": 719971.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=151295866-153317346&rn=109&rbuf=84441",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        33.221,
+                        795.46
+                    ]
+                ],
+                "pos": 720.334909,
+                "closest": 719971.0
+            },
+            "end_ts": 1516982220554,
+            "start_ts": 1516982220336,
+            "resolution": 720,
+            "range": "151295866-153317346",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "410": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        17.281,
+                        774.106
+                    ]
+                ],
+                "pos": 699.200515,
+                "closest": 698836.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=147635697-149340338&rn=106&rbuf=84088",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        17.281,
+                        774.106
+                    ]
+                ],
+                "pos": 699.200515,
+                "closest": 698836.0
+            },
+            "end_ts": 1516982199750,
+            "start_ts": 1516982199581,
+            "resolution": 720,
+            "range": "147635697-149340338",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "412": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        17.281,
+                        774.106
+                    ]
+                ],
+                "pos": 699.200515,
+                "closest": 698836.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=13128587-13640123&rn=107&rbuf=84391",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        17.281,
+                        774.106
+                    ]
+                ],
+                "pos": 699.200515,
+                "closest": 698836.0
+            },
+            "end_ts": 1516982199821,
+            "start_ts": 1516982199756,
+            "resolution": 0,
+            "range": "13128587-13640123",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "299": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        421.754
+                    ]
+                ],
+                "pos": 343.754646,
+                "closest": 343397.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=78424617-80521768&rn=61&rbuf=84201",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        421.754
+                    ]
+                ],
+                "pos": 344.256804,
+                "closest": 343899.0
+            },
+            "end_ts": 1516981846338,
+            "start_ts": 1516981846088,
+            "resolution": 720,
+            "range": "78424617-80521768",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "371": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        640.639
+                    ]
+                ],
+                "pos": 564.508809,
+                "closest": 564147.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=122077526-124174677&rn=90&rbuf=84484",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        640.639
+                    ]
+                ],
+                "pos": 564.508809,
+                "closest": 564147.0
+            },
+            "end_ts": 1516982065794,
+            "start_ts": 1516982065578,
+            "resolution": 720,
+            "range": "122077526-124174677",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "373": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        651.316
+                    ]
+                ],
+                "pos": 575.578944,
+                "closest": 575217.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=124174678-126271829&rn=91&rbuf=83907",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        651.316
+                    ]
+                ],
+                "pos": 575.578944,
+                "closest": 575217.0
+            },
+            "end_ts": 1516982076805,
+            "start_ts": 1516982076582,
+            "resolution": 720,
+            "range": "124174678-126271829",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "295": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        411.076
+                    ]
+                ],
+                "pos": 334.697345,
+                "closest": 334340.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=76327465-78424616&rn=60&rbuf=83807",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        411.076
+                    ]
+                ],
+                "pos": 334.697345,
+                "closest": 334340.0
+            },
+            "end_ts": 1516981837315,
+            "start_ts": 1516981837086,
+            "resolution": 720,
+            "range": "76327465-78424616",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "375": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        651.316
+                    ]
+                ],
+                "pos": 577.092925,
+                "closest": 576731.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=11149835-11810407&rn=92&rbuf=86141",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        651.316
+                    ]
+                ],
+                "pos": 577.092925,
+                "closest": 576731.0
+            },
+            "end_ts": 1516982077940,
+            "start_ts": 1516982077842,
+            "resolution": 0,
+            "range": "11149835-11810407",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "293": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        400.399
+                    ]
+                ],
+                "pos": 324.142714,
+                "closest": 323785.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=74297213-76327464&rn=59&rbuf=83630",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        400.399
+                    ]
+                ],
+                "pos": 324.142714,
+                "closest": 323785.0
+            },
+            "end_ts": 1516981826571,
+            "start_ts": 1516981826339,
+            "resolution": 720,
+            "range": "74297213-76327464",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "291": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        395.06
+                    ]
+                ],
+                "pos": 319.113454,
+                "closest": 318756.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=6864681-7513232&rn=58&rbuf=82644",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        395.06
+                    ]
+                ],
+                "pos": 319.113454,
+                "closest": 318756.0
+            },
+            "end_ts": 1516981821462,
+            "start_ts": 1516981821344,
+            "resolution": 0,
+            "range": "6864681-7513232",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "318": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        475.14
+                    ]
+                ],
+                "pos": 399.568938,
+                "closest": 399210.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=8165847-8827451&rn=69&rbuf=82645",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        475.14
+                    ]
+                ],
+                "pos": 399.568938,
+                "closest": 399210.0
+            },
+            "end_ts": 1516981901441,
+            "start_ts": 1516981901344,
+            "resolution": 0,
+            "range": "8165847-8827451",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "198": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        112.111
+                    ]
+                ],
+                "pos": 49.54784,
+                "closest": 49195.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=20803683-22900834&rn=22&rbuf=63255",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        112.111
+                    ]
+                ],
+                "pos": 49.54784,
+                "closest": 49195.0
+            },
+            "end_ts": 1516981553593,
+            "start_ts": 1516981553341,
+            "resolution": 720,
+            "range": "20803683-22900834",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "311": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        459.124
+                    ]
+                ],
+                "pos": 381.461345,
+                "closest": 381103.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=86072220-87534920&rn=66&rbuf=83419",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        459.124
+                    ]
+                ],
+                "pos": 381.461345,
+                "closest": 381103.0
+            },
+            "end_ts": 1516981883762,
+            "start_ts": 1516981883585,
+            "resolution": 720,
+            "range": "86072220-87534920",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "196": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        101.034
+                    ]
+                ],
+                "pos": 44.51572,
+                "closest": 44163.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=18855181-20803682&rn=21&rbuf=56795",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        101.034
+                    ]
+                ],
+                "pos": 44.51572,
+                "closest": 44163.0
+            },
+            "end_ts": 1516981548579,
+            "start_ts": 1516981548341,
+            "resolution": 720,
+            "range": "18855181-20803682",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "191": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        90.756
+                    ]
+                ],
+                "pos": 38.483308,
+                "closest": 38131.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=1611619-2277669&rn=19&rbuf=51639",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        90.756
+                    ]
+                ],
+                "pos": 38.483308,
+                "closest": 38131.0
+            },
+            "end_ts": 1516981542436,
+            "start_ts": 1516981542349,
+            "resolution": 0,
+            "range": "1611619-2277669",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "316": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        475.14
+                    ]
+                ],
+                "pos": 398.052026,
+                "closest": 397693.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=89632073-90911967&rn=68&rbuf=83594",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        475.14
+                    ]
+                ],
+                "pos": 398.052026,
+                "closest": 397693.0
+            },
+            "end_ts": 1516981900014,
+            "start_ts": 1516981899839,
+            "resolution": 720,
+            "range": "89632073-90911967",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "193": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        90.756
+                    ]
+                ],
+                "pos": 38.483308,
+                "closest": 38131.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=16758029-18855180&rn=20&rbuf=52395",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        90.756
+                    ]
+                ],
+                "pos": 38.483308,
+                "closest": 38131.0
+            },
+            "end_ts": 1516981542690,
+            "start_ts": 1516981542422,
+            "resolution": 720,
+            "range": "16758029-18855180",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "314": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        462.662
+                    ]
+                ],
+                "pos": 387.994871,
+                "closest": 387636.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=87534921-89632072&rn=67&rbuf=83945",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        462.662
+                    ]
+                ],
+                "pos": 387.994871,
+                "closest": 387636.0
+            },
+            "end_ts": 1516981890058,
+            "start_ts": 1516981889837,
+            "resolution": 720,
+            "range": "87534921-89632072",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "271": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        330.996
+                    ]
+                ],
+                "pos": 253.726983,
+                "closest": 253371.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=60828528-62097300&rn=50&rbuf=83978",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        330.996
+                    ]
+                ],
+                "pos": 253.726983,
+                "closest": 253371.0
+            },
+            "end_ts": 1516981756721,
+            "start_ts": 1516981756587,
+            "resolution": 720,
+            "range": "60828528-62097300",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "390": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        704.703
+                    ]
+                ],
+                "pos": 629.345855,
+                "closest": 628983.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=134313497-136289607&rn=98&rbuf=84435",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        704.703
+                    ]
+                ],
+                "pos": 629.345855,
+                "closest": 628983.0
+            },
+            "end_ts": 1516982130146,
+            "start_ts": 1516982129833,
+            "resolution": 720,
+            "range": "134313497-136289607",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "274": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        336.335
+                    ]
+                ],
+                "pos": 259.769554,
+                "closest": 259413.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=62097301-64132104&rn=51&rbuf=83318",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        336.335
+                    ]
+                ],
+                "pos": 259.769554,
+                "closest": 259413.0
+            },
+            "end_ts": 1516981762560,
+            "start_ts": 1516981762344,
+            "resolution": 720,
+            "range": "62097301-64132104",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "395": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        726.058
+                    ]
+                ],
+                "pos": 650.950096,
+                "closest": 650587.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=138320209-140376985&rn=100&rbuf=83792",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        726.058
+                    ]
+                ],
+                "pos": 651.453935,
+                "closest": 651091.0
+            },
+            "end_ts": 1516982151835,
+            "start_ts": 1516982151585,
+            "resolution": 720,
+            "range": "138320209-140376985",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "277": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        347.012
+                    ]
+                ],
+                "pos": 269.822571,
+                "closest": 269466.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=64132105-66091433&rn=52&rbuf=83996",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        347.012
+                    ]
+                ],
+                "pos": 269.822571,
+                "closest": 269466.0
+            },
+            "end_ts": 1516981772813,
+            "start_ts": 1516981772586,
+            "resolution": 720,
+            "range": "64132105-66091433",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "279": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        357.69
+                    ]
+                ],
+                "pos": 280.900947,
+                "closest": 280544.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=66091434-68039518&rn=53&rbuf=83671",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        357.69
+                    ]
+                ],
+                "pos": 280.900947,
+                "closest": 280544.0
+            },
+            "end_ts": 1516981783594,
+            "start_ts": 1516981783344,
+            "resolution": 720,
+            "range": "66091434-68039518",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "368": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        629.962
+                    ]
+                ],
+                "pos": 554.435802,
+                "closest": 554074.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=119980374-122077525&rn=89&rbuf=83946",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        629.962
+                    ]
+                ],
+                "pos": 554.435802,
+                "closest": 554074.0
+            },
+            "end_ts": 1516982055803,
+            "start_ts": 1516982055581,
+            "resolution": 720,
+            "range": "119980374-122077525",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "366": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        624.623
+                    ]
+                ],
+                "pos": 549.408433,
+                "closest": 549047.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=10642505-11149834&rn=88&rbuf=83642",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        624.623
+                    ]
+                ],
+                "pos": 549.408433,
+                "closest": 549047.0
+            },
+            "end_ts": 1516982050649,
+            "start_ts": 1516982050578,
+            "resolution": 0,
+            "range": "10642505-11149834",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "364": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        619.284
+                    ]
+                ],
+                "pos": 543.384242,
+                "closest": 543023.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=118042502-119980373&rn=87&rbuf=84020",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        619.284
+                    ]
+                ],
+                "pos": 543.384242,
+                "closest": 543023.0
+            },
+            "end_ts": 1516982044803,
+            "start_ts": 1516982044587,
+            "resolution": 720,
+            "range": "118042502-119980373",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "360": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        608.607
+                    ]
+                ],
+                "pos": 532.330628,
+                "closest": 531970.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=116197322-118042501&rn=86&rbuf=83972",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        608.607
+                    ]
+                ],
+                "pos": 532.330628,
+                "closest": 531970.0
+            },
+            "end_ts": 1516982033770,
+            "start_ts": 1516982033583,
+            "resolution": 720,
+            "range": "116197322-118042501",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "308": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        448.447
+                    ]
+                ],
+                "pos": 370.901439,
+                "closest": 370543.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=83975068-86072219&rn=65&rbuf=84447",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        448.447
+                    ]
+                ],
+                "pos": 370.901439,
+                "closest": 370543.0
+            },
+            "end_ts": 1516981873317,
+            "start_ts": 1516981873091,
+            "resolution": 720,
+            "range": "83975068-86072219",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "301": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        432.431
+                    ]
+                ],
+                "pos": 355.308833,
+                "closest": 354951.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=80521769-81877915&rn=62&rbuf=83458",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        432.431
+                    ]
+                ],
+                "pos": 355.308833,
+                "closest": 354951.0
+            },
+            "end_ts": 1516981857734,
+            "start_ts": 1516981857596,
+            "resolution": 720,
+            "range": "80521769-81877915",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "303": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        432.431
+                    ]
+                ],
+                "pos": 356.31623,
+                "closest": 355958.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=7513233-8165846&rn=63&rbuf=85397",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        432.431
+                    ]
+                ],
+                "pos": 356.820757,
+                "closest": 356463.0
+            },
+            "end_ts": 1516981858918,
+            "start_ts": 1516981858828,
+            "resolution": 0,
+            "range": "7513233-8165846",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "306": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        436.836
+                    ]
+                ],
+                "pos": 361.35093,
+                "closest": 360993.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=81877916-83975067&rn=64&rbuf=83750",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        436.836
+                    ]
+                ],
+                "pos": 361.35093,
+                "closest": 360993.0
+            },
+            "end_ts": 1516981863548,
+            "start_ts": 1516981863341,
+            "resolution": 720,
+            "range": "81877916-83975067",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "380": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        672.671
+                    ]
+                ],
+                "pos": 597.695041,
+                "closest": 597333.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=128298183-130358207&rn=94&rbuf=83405",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        672.671
+                    ]
+                ],
+                "pos": 597.695041,
+                "closest": 597333.0
+            },
+            "end_ts": 1516982098785,
+            "start_ts": 1516982098581,
+            "resolution": 720,
+            "range": "128298183-130358207",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "109": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "pos": 0.0,
+                "closest": 2.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=67613-133148&rn=5&rbuf=3335",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "pos": 0.0,
+                "closest": 2.0
+            },
+            "end_ts": 1516981504656,
+            "start_ts": 1516981504630,
+            "resolution": 0,
+            "range": "67613-133148",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "241": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        240.239
+                    ]
+                ],
+                "pos": 163.186529,
+                "closest": 162832.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=44724395-46821546&rn=39&rbuf=83222",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        240.239
+                    ]
+                ],
+                "pos": 163.186529,
+                "closest": 162832.0
+            },
+            "end_ts": 1516981666592,
+            "start_ts": 1516981666347,
+            "resolution": 720,
+            "range": "44724395-46821546",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "386": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        694.026
+                    ]
+                ],
+                "pos": 618.292271,
+                "closest": 617930.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=132358123-134313496&rn=96&rbuf=84257",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        694.026
+                    ]
+                ],
+                "pos": 618.292271,
+                "closest": 617930.0
+            },
+            "end_ts": 1516982119316,
+            "start_ts": 1516982119089,
+            "resolution": 720,
+            "range": "132358123-134313496",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "388": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        694.026
+                    ]
+                ],
+                "pos": 619.796053,
+                "closest": 619433.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=11810408-12463833&rn=97&rbuf=83387",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        694.026
+                    ]
+                ],
+                "pos": 619.796053,
+                "closest": 619433.0
+            },
+            "end_ts": 1516982120706,
+            "start_ts": 1516982120593,
+            "resolution": 0,
+            "range": "11810408-12463833",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "100": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "pos": 0.0,
+                "closest": 2.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=3762-574582&rn=2&rbuf=0",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "pos": 0.0,
+                "closest": 2.0
+            },
+            "end_ts": 1516981504463,
+            "start_ts": 1516981504352,
+            "resolution": 720,
+            "range": "3762-574582",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "248": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        261.594
+                    ]
+                ],
+                "pos": 184.823229,
+                "closest": 184468.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=4612682-5117997&rn=42&rbuf=86395",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        261.594
+                    ]
+                ],
+                "pos": 184.823229,
+                "closest": 184468.0
+            },
+            "end_ts": 1516981687909,
+            "start_ts": 1516981687842,
+            "resolution": 0,
+            "range": "4612682-5117997",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "104": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "pos": 0.0,
+                "closest": 2.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=574583-922553&rn=4&rbuf=2316",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "pos": 0.0,
+                "closest": 2.0
+            },
+            "end_ts": 1516981504612,
+            "start_ts": 1516981504548,
+            "resolution": 720,
+            "range": "574583-922553",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "383": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        683.348
+                    ]
+                ],
+                "pos": 608.744,
+                "closest": 608382.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=130358208-132358122&rn=95&rbuf=83084",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        683.348
+                    ]
+                ],
+                "pos": 608.744,
+                "closest": 608382.0
+            },
+            "end_ts": 1516982109775,
+            "start_ts": 1516982109583,
+            "resolution": 720,
+            "range": "130358208-132358122",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "114": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "pos": 0.0,
+                "closest": 2.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=922554-1757399&rn=6&rbuf=4338",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "pos": 0.0,
+                "closest": 14.0
+            },
+            "end_ts": 1516981504852,
+            "start_ts": 1516981504663,
+            "resolution": 720,
+            "range": "922554-1757399",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "243": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        250.916
+                    ]
+                ],
+                "pos": 172.751697,
+                "closest": 172397.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=46821547-48877114&rn=40&rbuf=84109",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        250.916
+                    ]
+                ],
+                "pos": 172.751697,
+                "closest": 172397.0
+            },
+            "end_ts": 1516981676328,
+            "start_ts": 1516981676094,
+            "resolution": 720,
+            "range": "46821547-48877114",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "334": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        523.188
+                    ]
+                ],
+                "pos": 447.330994,
+                "closest": 446971.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=99300576-100609275&rn=75&rbuf=83339",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        523.188
+                    ]
+                ],
+                "pos": 447.330994,
+                "closest": 446971.0
+            },
+            "end_ts": 1516981949028,
+            "start_ts": 1516981948837,
+            "resolution": 720,
+            "range": "99300576-100609275",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "336": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        527.159
+                    ]
+                ],
+                "pos": 452.353803,
+                "closest": 451994.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=100609276-102603923&rn=76&rbuf=84012",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        527.159
+                    ]
+                ],
+                "pos": 452.353803,
+                "closest": 451994.0
+            },
+            "end_ts": 1516981954109,
+            "start_ts": 1516981953837,
+            "resolution": 720,
+            "range": "100609276-102603923",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "176": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        36.836
+                    ]
+                ],
+                "pos": 11.325363,
+                "closest": 10974.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=7064922-9060162&rn=13&rbuf=25682",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        36.836
+                    ]
+                ],
+                "pos": 11.325363,
+                "closest": 10974.0
+            },
+            "end_ts": 1516981515687,
+            "start_ts": 1516981515479,
+            "resolution": 720,
+            "range": "7064922-9060162",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "330": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        512.511
+                    ]
+                ],
+                "pos": 436.270138,
+                "closest": 435911.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=97203424-99300575&rn=73&rbuf=83582",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        512.511
+                    ]
+                ],
+                "pos": 436.270138,
+                "closest": 435911.0
+            },
+            "end_ts": 1516981938149,
+            "start_ts": 1516981937922,
+            "resolution": 720,
+            "range": "97203424-99300575",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "332": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        512.511
+                    ]
+                ],
+                "pos": 436.270138,
+                "closest": 435911.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=8827452-9491188&rn=74&rbuf=86009",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        512.511
+                    ]
+                ],
+                "pos": 436.772282,
+                "closest": 436413.0
+            },
+            "end_ts": 1516981938333,
+            "start_ts": 1516981938156,
+            "resolution": 0,
+            "range": "8827452-9491188",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "102": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "pos": 0.0,
+                "closest": 2.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=2077-67612&rn=3&rbuf=0",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0,
+                        0
+                    ]
+                ],
+                "pos": 0.0,
+                "closest": 2.0
+            },
+            "end_ts": 1516981504434,
+            "start_ts": 1516981504400,
+            "resolution": 0,
+            "range": "2077-67612",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "258": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        293.626
+                    ]
+                ],
+                "pos": 215.998047,
+                "closest": 215643.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=5117998-5622906&rn=46&rbuf=85110",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        293.626
+                    ]
+                ],
+                "pos": 215.998047,
+                "closest": 215643.0
+            },
+            "end_ts": 1516981719077,
+            "start_ts": 1516981718992,
+            "resolution": 0,
+            "range": "5117998-5622906",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "253": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        277.61
+                    ]
+                ],
+                "pos": 204.439464,
+                "closest": 204084.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=53032481-55129632&rn=44&rbuf=84450",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        277.61
+                    ]
+                ],
+                "pos": 204.439464,
+                "closest": 204084.0
+            },
+            "end_ts": 1516981707801,
+            "start_ts": 1516981707597,
+            "resolution": 720,
+            "range": "53032481-55129632",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "251": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        266.932
+                    ]
+                ],
+                "pos": 194.375374,
+                "closest": 194020.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=50935329-53032480&rn=43&rbuf=84252",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        266.932
+                    ]
+                ],
+                "pos": 194.375374,
+                "closest": 194020.0
+            },
+            "end_ts": 1516981697559,
+            "start_ts": 1516981697343,
+            "resolution": 720,
+            "range": "50935329-53032480",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "171": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        30.001
+                    ]
+                ],
+                "pos": 9.819256,
+                "closest": 9468.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=551094-946695&rn=12&rbuf=19897",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        30.001
+                    ]
+                ],
+                "pos": 9.819256,
+                "closest": 9468.0
+            },
+            "end_ts": 1516981514197,
+            "start_ts": 1516981514122,
+            "resolution": 0,
+            "range": "551094-946695",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "255": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        293.626
+                    ]
+                ],
+                "pos": 215.493178,
+                "closest": 215138.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=55129633-57201870&rn=45&rbuf=84280",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        293.626
+                    ]
+                ],
+                "pos": 215.998047,
+                "closest": 215643.0
+            },
+            "end_ts": 1516981718982,
+            "start_ts": 1516981718588,
+            "resolution": 720,
+            "range": "55129633-57201870",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "344": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        555.22
+                    ]
+                ],
+                "pos": 480.011693,
+                "closest": 479652.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=9491189-10143731&rn=79&rbuf=82397",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        555.22
+                    ]
+                ],
+                "pos": 480.011693,
+                "closest": 479652.0
+            },
+            "end_ts": 1516981981660,
+            "start_ts": 1516981981587,
+            "resolution": 0,
+            "range": "9491189-10143731",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "182": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        48.047
+                    ]
+                ],
+                "pos": 17.860005,
+                "closest": 17508.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=946696-1611618&rn=15&rbuf=32145",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        50.001
+                    ]
+                ],
+                "pos": 18.361168,
+                "closest": 18009.0
+            },
+            "end_ts": 1516981522425,
+            "start_ts": 1516981522314,
+            "resolution": 0,
+            "range": "946696-1611618",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "180": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        48.047
+                    ]
+                ],
+                "pos": 17.860005,
+                "closest": 17508.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=9060163-11092134&rn=14&rbuf=30192",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        48.047
+                    ]
+                ],
+                "pos": 17.860005,
+                "closest": 17508.0
+            },
+            "end_ts": 1516981522315,
+            "start_ts": 1516981522092,
+            "resolution": 720,
+            "range": "9060163-11092134",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "187": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        69.402
+                    ]
+                ],
+                "pos": 27.914785,
+                "closest": 27563.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=12936344-14880358&rn=17&rbuf=41542",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        69.402
+                    ]
+                ],
+                "pos": 27.914785,
+                "closest": 27563.0
+            },
+            "end_ts": 1516981532311,
+            "start_ts": 1516981532087,
+            "resolution": 720,
+            "range": "12936344-14880358",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "184": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        58.724
+                    ]
+                ],
+                "pos": 22.889076,
+                "closest": 22537.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=11092135-12936343&rn=16&rbuf=35867",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        58.724
+                    ]
+                ],
+                "pos": 22.889076,
+                "closest": 22537.0
+            },
+            "end_ts": 1516981527066,
+            "start_ts": 1516981526846,
+            "resolution": 720,
+            "range": "11092135-12936343",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "189": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        80.079
+                    ]
+                ],
+                "pos": 32.945909,
+                "closest": 32594.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=14880359-16758028&rn=18&rbuf=47217",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        80.079
+                    ]
+                ],
+                "pos": 32.945909,
+                "closest": 32594.0
+            },
+            "end_ts": 1516981537299,
+            "start_ts": 1516981537089,
+            "resolution": 720,
+            "range": "14880359-16758028",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "168": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        26.692
+                    ]
+                ],
+                "pos": 6.292217,
+                "closest": 5941.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=4967770-7064921&rn=11&rbuf=20339",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        26.692
+                    ]
+                ],
+                "pos": 6.794809,
+                "closest": 6443.0
+            },
+            "end_ts": 1516981510874,
+            "start_ts": 1516981510588,
+            "resolution": 720,
+            "range": "4967770-7064921",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "229": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        202.868
+                    ]
+                ],
+                "pos": 124.968015,
+                "closest": 124614.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=3603862-4110923&rn=34&rbuf=85643",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        202.868
+                    ]
+                ],
+                "pos": 124.968015,
+                "closest": 124614.0
+            },
+            "end_ts": 1516981628611,
+            "start_ts": 1516981628527,
+            "resolution": 0,
+            "range": "3603862-4110923",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "90": {
+            "status": 200,
+            "download_start": {
+                "buffer": null,
+                "pos": null,
+                "closest": null
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=0-2076&rn=1&rbuf=0",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": null,
+                "pos": null,
+                "closest": null
+            },
+            "end_ts": 1516981504232,
+            "start_ts": 1516981504115,
+            "resolution": 0,
+            "range": "0-2076",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "224": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        186.852
+                    ]
+                ],
+                "pos": 113.402223,
+                "closest": 113049.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=36645471-37961820&rn=32&rbuf=83836",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        186.852
+                    ]
+                ],
+                "pos": 113.402223,
+                "closest": 113049.0
+            },
+            "end_ts": 1516981617004,
+            "start_ts": 1516981616849,
+            "resolution": 720,
+            "range": "36645471-37961820",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "222": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        176.175
+                    ]
+                ],
+                "pos": 102.841818,
+                "closest": 102489.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=34548319-36645470&rn=31&rbuf=84496",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        176.175
+                    ]
+                ],
+                "pos": 102.841818,
+                "closest": 102489.0
+            },
+            "end_ts": 1516981606698,
+            "start_ts": 1516981606345,
+            "resolution": 720,
+            "range": "34548319-36645470",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "163": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        21.354
+                    ]
+                ],
+                "pos": 3.784688,
+                "closest": 3433.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=3443963-4967769&rn=10&rbuf=17248",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        21.354
+                    ]
+                ],
+                "pos": 3.784688,
+                "closest": 3433.0
+            },
+            "end_ts": 1516981508273,
+            "start_ts": 1516981508105,
+            "resolution": 720,
+            "range": "3443963-4967769",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "392": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        715.38
+                    ]
+                ],
+                "pos": 640.389215,
+                "closest": 640026.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=136289608-138320208&rn=99&rbuf=83616",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        715.38
+                    ]
+                ],
+                "pos": 640.890408,
+                "closest": 640527.0
+            },
+            "end_ts": 1516982141339,
+            "start_ts": 1516982141082,
+            "resolution": 720,
+            "range": "136289608-138320208",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "89": {
+            "status": 200,
+            "download_start": {
+                "buffer": null,
+                "pos": null,
+                "closest": null
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=0-3761&rn=0&rbuf=0",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": null,
+                "pos": null,
+                "closest": null
+            },
+            "end_ts": 1516981504165,
+            "start_ts": 1516981504112,
+            "resolution": 720,
+            "range": "0-3761",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "397": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        731.396
+                    ]
+                ],
+                "pos": 657.495768,
+                "closest": 657132.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=12463834-13128586&rn=101&rbuf=86394",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        731.396
+                    ]
+                ],
+                "pos": 657.495768,
+                "closest": 657132.0
+            },
+            "end_ts": 1516982157978,
+            "start_ts": 1516982157832,
+            "resolution": 0,
+            "range": "12463834-13128586",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "289": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        389.722
+                    ]
+                ],
+                "pos": 312.57586,
+                "closest": 312219.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=72228597-74297212&rn=57&rbuf=84456",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        389.722
+                    ]
+                ],
+                "pos": 313.078206,
+                "closest": 312721.0
+            },
+            "end_ts": 1516981815503,
+            "start_ts": 1516981815090,
+            "resolution": 720,
+            "range": "72228597-74297212",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "239": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        234.9
+                    ]
+                ],
+                "pos": 158.162873,
+                "closest": 157809.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=4110924-4612681&rn=38&rbuf=83140",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        234.9
+                    ]
+                ],
+                "pos": 158.162873,
+                "closest": 157809.0
+            },
+            "end_ts": 1516981661441,
+            "start_ts": 1516981661347,
+            "resolution": 0,
+            "range": "4110924-4612681",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "234": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        218.884
+                    ]
+                ],
+                "pos": 140.561936,
+                "closest": 140208.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=41146252-42835105&rn=36&rbuf=84118",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        218.884
+                    ]
+                ],
+                "pos": 141.064499,
+                "closest": 140710.0
+            },
+            "end_ts": 1516981644519,
+            "start_ts": 1516981644167,
+            "resolution": 720,
+            "range": "41146252-42835105",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "237": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        229.562
+                    ]
+                ],
+                "pos": 152.628757,
+                "closest": 152275.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=42835106-44724394&rn=37&rbuf=83045",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        229.562
+                    ]
+                ],
+                "pos": 152.628757,
+                "closest": 152275.0
+            },
+            "end_ts": 1516981656067,
+            "start_ts": 1516981655844,
+            "resolution": 720,
+            "range": "42835106-44724394",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "231": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        208.207
+                    ]
+                ],
+                "pos": 130.496385,
+                "closest": 130143.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=39488440-41146251&rn=35&rbuf=83442",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        208.207
+                    ]
+                ],
+                "pos": 131.000261,
+                "closest": 130646.0
+            },
+            "end_ts": 1516981634368,
+            "start_ts": 1516981634159,
+            "resolution": 720,
+            "range": "39488440-41146251",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "322": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        491.156
+                    ]
+                ],
+                "pos": 414.137501,
+                "closest": 413779.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=93009120-95106271&rn=71&rbuf=83618",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        491.156
+                    ]
+                ],
+                "pos": 414.137501,
+                "closest": 413779.0
+            },
+            "end_ts": 1516981916307,
+            "start_ts": 1516981916090,
+            "resolution": 720,
+            "range": "93009120-95106271",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "320": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        479.545
+                    ]
+                ],
+                "pos": 404.590405,
+                "closest": 404232.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=90911968-93009119&rn=70&rbuf=83462",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        479.545
+                    ]
+                ],
+                "pos": 404.590405,
+                "closest": 404232.0
+            },
+            "end_ts": 1516981906589,
+            "start_ts": 1516981906341,
+            "resolution": 720,
+            "range": "90911968-93009119",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "327": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        501.834
+                    ]
+                ],
+                "pos": 425.200834,
+                "closest": 424842.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=95106272-97203423&rn=72&rbuf=83333",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        501.834
+                    ]
+                ],
+                "pos": 425.200834,
+                "closest": 424842.0
+            },
+            "end_ts": 1516981927303,
+            "start_ts": 1516981927082,
+            "resolution": 720,
+            "range": "95106272-97203423",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "201": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        122.521
+                    ]
+                ],
+                "pos": 54.57033,
+                "closest": 54218.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=22900835-24997986&rn=23&rbuf=67994",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        122.521
+                    ]
+                ],
+                "pos": 54.57033,
+                "closest": 54218.0
+            },
+            "end_ts": 1516981558579,
+            "start_ts": 1516981558343,
+            "resolution": 720,
+            "range": "22900835-24997986",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "204": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        132.766
+                    ]
+                ],
+                "pos": 59.094734,
+                "closest": 58742.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=2277670-2944017&rn=24&rbuf=71144",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        132.766
+                    ]
+                ],
+                "pos": 59.094734,
+                "closest": 58742.0
+            },
+            "end_ts": 1516981562942,
+            "start_ts": 1516981562846,
+            "resolution": 0,
+            "range": "2277670-2944017",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "206": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        132.766
+                    ]
+                ],
+                "pos": 60.105225,
+                "closest": 59753.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=24997987-26711035&rn=25&rbuf=72943",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        138.804
+                    ]
+                ],
+                "pos": 60.608353,
+                "closest": 60256.0
+            },
+            "end_ts": 1516981564360,
+            "start_ts": 1516981564125,
+            "resolution": 720,
+            "range": "24997987-26711035",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "208": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        144.143
+                    ]
+                ],
+                "pos": 65.632642,
+                "closest": 65280.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=26711036-28398194&rn=26&rbuf=79036",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        144.143
+                    ]
+                ],
+                "pos": 65.632642,
+                "closest": 65280.0
+            },
+            "end_ts": 1516981569529,
+            "start_ts": 1516981569348,
+            "resolution": 720,
+            "range": "26711036-28398194",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "263": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        314.98
+                    ]
+                ],
+                "pos": 237.647024,
+                "closest": 237291.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=59299023-60828527&rn=48&rbuf=83492",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        314.98
+                    ]
+                ],
+                "pos": 237.647024,
+                "closest": 237291.0
+            },
+            "end_ts": 1516981740539,
+            "start_ts": 1516981740344,
+            "resolution": 720,
+            "range": "59299023-60828527",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "356": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        592.591
+                    ]
+                ],
+                "pos": 517.751983,
+                "closest": 517391.0
+            },
+            "itag": "251",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=8E053E3444422A966A76934B2F8314B3DE1028D6.966CE46C7A871C3C9D9A9CF5AA270EC27736FF83&lmt=1483930992842490&expire=1517003103&sparams=clen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=251&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=audio%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.681&mm=31&mv=m&ms=au&clen=17906434&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=10143732-10642504&rn=84&rbuf=84893",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        592.591
+                    ]
+                ],
+                "pos": 517.751983,
+                "closest": 517391.0
+            },
+            "end_ts": 1516982019178,
+            "start_ts": 1516982019092,
+            "resolution": 0,
+            "range": "10143732-10642504",
+            "clen": "17906434",
+            "content-type": "audio/webm",
+            "method": "GET"
+        },
+        "354": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        592.591
+                    ]
+                ],
+                "pos": 516.236314,
+                "closest": 515876.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=112821284-114100169&rn=83&rbuf=84325",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        592.591
+                    ]
+                ],
+                "pos": 516.236314,
+                "closest": 515876.0
+            },
+            "end_ts": 1516982017767,
+            "start_ts": 1516982017586,
+            "resolution": 720,
+            "range": "112821284-114100169",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "352": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        581.914
+                    ]
+                ],
+                "pos": 506.686958,
+                "closest": 506326.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=110833245-112821283&rn=82&rbuf=83149",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        581.914
+                    ]
+                ],
+                "pos": 506.686958,
+                "closest": 506326.0
+            },
+            "end_ts": 1516982008299,
+            "start_ts": 1516982008087,
+            "resolution": 720,
+            "range": "110833245-112821283",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "358": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        597.93
+                    ]
+                ],
+                "pos": 522.275344,
+                "closest": 521914.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=114100170-116197321&rn=85&rbuf=83654",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        597.93
+                    ]
+                ],
+                "pos": 522.275344,
+                "closest": 521914.0
+            },
+            "end_ts": 1516982023823,
+            "start_ts": 1516982023594,
+            "resolution": 720,
+            "range": "114100170-116197321",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        },
+        "246": {
+            "status": 200,
+            "download_start": {
+                "buffer": [
+                    [
+                        0.0,
+                        256.088
+                    ]
+                ],
+                "pos": 183.312049,
+                "closest": 182957.0
+            },
+            "itag": "247",
+            "url": "https://r4---sn-gxo5uxg-jqbe.googlevideo.com/videoplayback?signature=A01AD1B7FD87788F76713B0C156B8E33A6872949.23DBF69A5A4829B39B00812437ABBC12A1B2BFC5&lmt=1483939724445057&expire=1517003103&aitags=133%2C134%2C135%2C136%2C137%2C160%2C242%2C243%2C244%2C247%2C248%2C264%2C271%2C278%2C313&sparams=aitags%2Cclen%2Cdur%2Cei%2Cgir%2Cid%2Cinitcwndbps%2Cip%2Cipbits%2Citag%2Ckeepalive%2Clmt%2Cmime%2Cmm%2Cmn%2Cms%2Cmv%2Cpcm2cms%2Cpl%2Crequiressl%2Csource%2Cexpire&source=youtube&mt=1516981369&key=yt6&initcwndbps=1438750&ipbits=0&pl=19&keepalive=yes&itag=247&ei=_kxrWsTrPM6YWK69j6gM&requiressl=yes&mime=video%2Fwebm&gir=yes&mn=sn-gxo5uxg-jqbe&id=o-AP7mA6jswnWVNsn4-Q6kUtvWecUhHWwk4UC-hRxK2sdn&dur=1051.650&mm=31&mv=m&ms=au&clen=198287074&ip=193.52.24.15&pcm2cms=yes&ratebypass=yes&alr=yes&cpn=RVX7ce4_Vgu3gd4q&c=WEB&cver=2.20180125&range=48877115-50935328&rn=41&rbuf=84330",
+            "ip": "193.51.224.143",
+            "download_end": {
+                "buffer": [
+                    [
+                        0.0,
+                        256.088
+                    ]
+                ],
+                "pos": 183.312049,
+                "closest": 182957.0
+            },
+            "end_ts": 1516981686811,
+            "start_ts": 1516981686590,
+            "resolution": 720,
+            "range": "48877115-50935328",
+            "clen": "198287074",
+            "content-type": "video/webm",
+            "method": "GET"
+        }
+    },
+    "movie_id": "2h7Dy7O2brs",
+    "endTs": 1516982225178.0
+}
