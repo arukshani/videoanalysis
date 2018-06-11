@@ -68,7 +68,7 @@ class GeneralSession:
     self.mid = ""
     self.startTime = 0
     self.endTime = 0
-    self.duration = 0
+    self.durations = []
     self.timeStamps = []
     self.readyStates = []
     self.buffer = []
@@ -126,6 +126,7 @@ class GeneralSession:
           self.add_currentTime_video(entry)
           self.add_ready_state(entry)
           self.add_decoded_video_bytes(entry)
+          self.add_duration(entry)
       self.add_video_rates()
       self.add_buffer_durations()
       self.throw_last_video()
@@ -250,6 +251,46 @@ class GeneralSession:
 
   def get_video_rates(self):
     return self.videoRates
+
+
+  def add_duration(self, entry):
+    try:
+      h = int(entry["DUR"])
+      self.durations.append(h)
+    except TypeError:
+      self.durations.append(0)
+      return None
+    except KeyError:
+      self.durations.append(0)
+      return None
+
+
+  def get_durations(self):
+    return self.durations
+
+  def get_duration_by_time(self, t):
+    """
+    Return the closest entry to timestamp t
+    :param self:
+    :param t:
+    :return:
+    """
+    if t<=0 or t<=self.startTime:
+      return None
+    i = int((t-self.startTime)/500)
+    if i >= len(self.currentTimes):
+      return None
+    return self.durations[i]
+
+
+  def get_duration_by_index(self, i):
+    """
+
+    :param self:
+    :param i:
+    :return:
+    """
+    return self.durations[i]
 
 
   def add_buffer(self, entry):
