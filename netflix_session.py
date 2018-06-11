@@ -520,9 +520,9 @@ class NetflixSession:
         self.resolution.append([res[0],res[1]])
       elif "PBR" in entry.keys() and "?" not in entry["PBR"]:
         s = entry["PBR"]
-        print s
+        # print s
         res = s[s.find("(")+1:s.find(")")].split("x")
-        print res
+        # print res
         self.resolution.append([res[0], res[1]])
       else:
         if len(self.resolution) > 0:
