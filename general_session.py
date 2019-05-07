@@ -675,6 +675,6 @@ class GeneralSession:
             self.joinTime = ts - (end*1000 - beginning*1000)
 
       except KeyError as e:
-        continue
+        pass
       except ValueError as e:
-        continue
+        pass
