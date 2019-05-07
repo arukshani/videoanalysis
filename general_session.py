@@ -127,6 +127,7 @@ class GeneralSession:
           self.add_ready_state(entry)
           self.add_decoded_video_bytes(entry)
           self.add_duration(entry)
+          self.add_join_time(entry, ts)
       self.add_video_rates()
       self.add_buffer_durations()
       self.throw_last_video()
@@ -649,3 +650,31 @@ class GeneralSession:
         if ts >= self.videoHeights[i][0]:
           if i == len(self.videoHeights) - 1 or ts < self.videoHeights[i + 1][0]:
             return self.videoHeights[i][1]
+
+
+  def add_join_time(self, entry, ts):
+      try:
+        if self.joinTime > 0:
+            return
+        pla = entry["PLA"]
+        if not pla:
+          raise KeyError()
+
+        if self.version is not None:
+          buffer = pla[2:-2]
+        else:
+          buffer = pla[2:-1]
+        parts = buffer.split('},{')
+
+        buffer = []
+        bounds = parts[0].split(',')
+        beginning = float(bounds[0][2:])
+        end = float(bounds[1][2:])
+
+        if end - beginning > 0:
+            self.joinTime = ts - (end*1000 - beginning*1000)
+
+      except KeyError as e:
+        continue
+      except ValueError as e:
+        continue
